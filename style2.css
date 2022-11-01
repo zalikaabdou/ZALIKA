@@ -1,0 +1,265 @@
+
+*{
+  margin: 0; 
+  padding: 0;
+} 
+
+html{
+  margin: 20px;
+}
+/* class */
+.onglets a{
+  display: flex;
+  height: 50px;
+  padding: 20px;
+  display: inline;
+  
+}
+
+.background{
+   background-color: rgb(91, 91, 240);
+   background-attachment: fixed;
+   padding: 20px;
+
+}
+.maison1{
+ background-image: url(""); 
+ margin-bottom: 10px;
+  }
+.summer,p{
+  background-color: black;
+  color: aliceblue;
+
+}
+
+.maison2{
+background-image: url("");
+}
+.brique,p{
+background-color: black;
+color: aliceblue;
+}
+.abdou a{
+  justify-content: space-between;
+}
+
+.zalika,a{
+  margin-bottom: 80px;
+}
+
+.onglets a{
+  /* align-items: center; */
+}
+
+.bonjour {
+  background-color: aqua; 
+  width: 100%;height: 70px;
+  text-align: right;}
+
+
+.bonjour h1{color: black;}
+
+
+.controle{justify-content: center;}
+
+.red {
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  color: aliceblue;
+  background-image: url("image/image1.jpg");
+  background-attachment: fixed;
+  height: 500px;
+  margin-bottom: 50px;
+}
+
+
+   
+span{
+  background-color: #000000;}
+
+
+
+
+.banner{
+  position: relative;
+  width: 100%;
+  margin: 0 auto;}
+
+.banner img{width: 100%;}
+
+.heading{
+   font-size:3rem;
+   text-shadow: 5px 5px 10px #000000;
+   color: whitesmoke;
+   position: absolute;
+   text-align: center;
+   top: 90%;
+   width:100%;}
+
+
+
+   .doe{
+    
+     display: flex;
+     justify-content: space-between;}
+
+
+/* CONTCAT */
+
+
+
+.contact1{
+  border-style: groove;  
+  width: 99%;
+  height: 30px; 
+  text-align: center;
+  margin-bottom: 50px;
+}          
+.contact1:hover{
+  box-shadow: 0 14px 28px rgb(125, 228,239), 0 10px 10px rgba(0,0,0,0.22);}
+
+.contact2{ 
+   border-style: groove;
+   width: 99%; 
+   height: 30px;
+   text-align: center;
+  }
+
+.contact2:hover{
+  box-shadow: 0 14px 28px rgb(125, 228,239), 0 10px 10px rgba(0,0,0,0.22);}  
+
+.contact3{
+  border-style: groove;
+  width: 99%;
+  height: 30px;
+  text-align: center;
+}
+
+.contact3:hover{
+  box-shadow: 0 14px 28px rgb(125, 228,239), 0 10px 10px rgba(0,0,0,0.22);}
+
+.contact4{ 
+  border-style: groove;
+  width: 99%;
+  height: 30px;
+  text-align: center;
+}
+
+.contact4:hover{
+ 
+  box-shadow: 0 14px 28px rgb(125, 228,239), 0 10px 10px rgba(0,0,0,0.22);
+}
+/* indentification */
+
+.name {
+  width: 100%;
+  height:30px;
+  border-style: groove;
+}
+
+.e{
+  width: 100%;
+  height:30px;
+  border-style: groove;}
+
+.sub{
+  width: 100%;
+  height:30px;
+  border-style: groove;}
+
+.comment{
+  width: 100%;
+  height:30px;
+  border-style: groove;
+}
+
+.map{
+  background-image: url("image/image6.jpg");
+  height: 500px;
+  margin: 20px;
+  text-align: center;
+  
+}
+
+.send a{
+ 
+  width: 18%;
+  height: 30px;
+  color: aliceblue;
+  border:solid;
+  color:white ;
+  background-color: rgb(8, 8, 8);
+  
+}
+
+
+/* MENU */
+.menu1 {
+  display: inline;}
+
+/* HOUSE */
+  
+.house1{
+   text-align: center;
+   display:flex;
+   justify-content: space-between;
+}
+
+.house2{
+  text-align: center;
+  display: flex;
+  justify-content: space-between;}
+
+
+ b,i{
+    margin: 5px;}
+
+ h3{
+   margin-bottom: 30px;
+   
+  }
+ 
+ h2{
+  margin:bottom 210px;
+  float: middle;}
+
+ img{
+  text-align: center;
+  margin-bottom: 20px;}
+ 
+
+span{
+  background-color: black;
+  color: white; }
+
+li{
+   list-style-type: none;
+   display: inline;
+   margin: 10px;}
+
+body{
+  font-size:20px;
+  font-family: arial serif;}
+
+
+
+
+a{
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  text-align: underline none;}
+
+footer{
+  background-color: rgb(10, 10, 10);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 1000px;
+  text-align: center;
+  background-attachment: fixed;
+}
+.footer footer{
+   text-align: center;
+}
